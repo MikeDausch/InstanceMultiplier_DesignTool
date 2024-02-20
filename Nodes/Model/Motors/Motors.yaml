@@ -1,0 +1,553 @@
+Name: Motors
+Type: FolderType
+Children:
+- Name: Motor1
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor2
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor3
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor4
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor5
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor6
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor7
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor8
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor9
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor10
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor11
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor12
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor13
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor14
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor15
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor16
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor17
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor18
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor19
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor20
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor21
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor22
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor23
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor24
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor25
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor26
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor27
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor28
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor29
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor30
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor31
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor32
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor33
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor34
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor35
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor36
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor37
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor38
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor39
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor40
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor41
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor42
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor43
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor44
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor45
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor46
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor47
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor48
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor49
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Motor50
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false

@@ -1,0 +1,69 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: InstanceMultiplierTool
+  Type: NetLogic
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Name: Quantity
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 50
+  - Name: Type_Alias
+    Type: Alias
+    DataType: NodeId
+    Value: "/Objects/InstanceMultiplier_DesignTool/Model/Pump"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Objects/InstanceMultiplier_DesignTool/Model/Pump"
+  - Class: Method
+    Name: CreateInstances
+- Name: Pump
+  Id: g=506db223b4ccab5b67209ab9b85c32bb
+  Supertype: BaseObjectType
+  Children:
+  - Name: Cmd_Start
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+  - Name: Cmd_Stop
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+  - Name: Cmd_Spd
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+  - Name: Sts_Spd
+    Type: BaseDataVariableType
+    DataType: Float
+    Value: 0.0
+- Name: Motor
+  Id: g=c923790cae3f455f91113969f8589e53
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: Running
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+- Name: Conv
+  Type: BaseObjectType
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+- File: Motors/Motors.yaml
